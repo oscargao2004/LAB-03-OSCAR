@@ -9,7 +9,7 @@ The use of Singletons will be in the form of a Game, Save, UI, Input, Audio and/
 For now we will be focusing on a GameManager and UIManager.
 
 The Command design pattern will be in the form of custom button mapping, unique banner/profile pic/character customization and/or world editing.
-For now we will be focusing on custom button mapping and world editing.
+For now we will be focusing on custom button mapping and customization for a banner/profile pic/character/tower.
 
 The Factory pattern will be in the form of UI creation, Audio management, scene population and/or terrain creation.
 For now we will be focusing on UI creation and scene population. 
